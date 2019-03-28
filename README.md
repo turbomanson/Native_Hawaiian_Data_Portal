@@ -1,7 +1,8 @@
 # Project Name:	Native Hawaiian Data Portal  
 Start Date:	April 2019  
 Completion Date: TBD  
-Sponsor: LT & KS	Project Management Leads:	Palama Lee and Wendy Kekahio  
+Sponsor: LT & KS  
+Project Management Leads:	Palama Lee and Wendy Kekahio  
 
 ## Project Overview  
 ### Project Background:  
